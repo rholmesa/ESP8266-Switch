@@ -2,6 +2,7 @@
  *  rons_multi_mqtt_switch.h
  *  Define a class for switch with mqtt and an override facility
  *  This class defines a 'switch' with local override, but which can be switched via mqtt
+ *  This change is of documentation only for GIT Test
  */
  #ifndef EspMqttSwitch_h
  #define EspMqttSwitch_h
